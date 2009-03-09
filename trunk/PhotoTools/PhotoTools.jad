@@ -1,0 +1,8 @@
+MIDlet-Version: 1.0
+MIDlet-Vendor: Timothy J. Stavenger
+MIDlet-Jar-URL: PhotoTools.jar
+MIDlet-Description: Calculates depth of field, field of view, angle of view, and hyperfocal distance.
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
+MIDlet-1: Photo Tools,,phototools.view.midlet.PhotoToolsMIDlet
+MIDlet-Name: Photo Tools
