@@ -1,0 +1,20 @@
+#Fri Sep 12 21:51:42 CDT 2008
+eclipse.preferences.version=1
+encoding//.processed/src/phototools/Aperture.java=UTF-8
+encoding//.processed/src/phototools/Camera.java=UTF-8
+encoding//.processed/src/phototools/Photo.java=UTF-8
+encoding//.processed/src/phototools/utility/DoubleFormatter.java=UTF-8
+encoding//.processed/src/phototools/utility/MathUtility.java=UTF-8
+encoding//.processed/src/phototools/utility/PhotoToolsRecordStore.java=UTF-8
+encoding//.processed/src/phototools/view/midlet/ApertureChoiceGroup.java=UTF-8
+encoding//.processed/src/phototools/view/midlet/CameraChoiceGroup.java=UTF-8
+encoding//.processed/src/phototools/view/midlet/DoubleChoiceGroup.java=UTF-8
+encoding//.processed/src/phototools/view/midlet/FormCanvas.java=UTF-8
+encoding//.processed/src/phototools/view/midlet/IntegerChoiceGroup.java=UTF-8
+encoding//.processed/src/phototools/view/midlet/OptionsForm.java=UTF-8
+encoding//.processed/src/phototools/view/midlet/PhotoForm.java=UTF-8
+encoding//.processed/src/phototools/view/midlet/PhotoToolsCanvas.java=UTF-8
+encoding//.processed/src/phototools/view/midlet/PhotoToolsForm.java=UTF-8
+encoding//.processed/src/phototools/view/midlet/PhotoToolsMIDlet.java=UTF-8
+encoding//.processed/test/dof/PhotoTest.java=UTF-8
+encoding//.processed/test/phototools/PhotoTest.java=UTF-8

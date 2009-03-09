@@ -1,0 +1,8 @@
+<camera>
+	<name>Canon Digital Rebel, XT, XTi, XSi</name>
+	<circleofconfusion>0.019</circleofconfusion>
+	<frame>
+		<width> 22.2</width>
+		<height>14.8</height>
+	</frame>
+</camera>
